@@ -23,7 +23,7 @@ and enhance the decoder’s feature expression ability.
 ```
 @article{li2024can,
   title={CWNet: Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation},
-  author={Li, Zhan and Zhang, Chunxia and Zhang, Yongqin and Wang, Xiaofeng and Ma, Xiaolong and Zhang, Hai and Wu, Songdi},
+  author={Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun},
   journal={},
   pages={},
   year={},
