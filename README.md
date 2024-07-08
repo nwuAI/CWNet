@@ -15,7 +15,7 @@ module (FE), to better fuse the features of the two encoders
 and enhance the decoder’s feature expression ability.
 
 <div align="center">
-  <img src="figures/framework.png" width="600" />
+  <img src="figures/framework.png" width="1000" />
 </div>
 
 
