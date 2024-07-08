@@ -37,12 +37,13 @@ python data_process.py -dp DATASET_PATH -dn DATASET_NAME
 ```
 
 ## Train
-If you are prompted for no packages, enter pip install * * to install dependent packages
+Enter python train.py to run the code. If you are prompted for no packages, enter pip install * * to install dependent packages
 ```
 python train.py -dp DATASET_PATH
 ```
 
 ## Test
+After training, you can use the python test.py to validate your model.
 ```
 python test.py -dp DATASET_PATH -wp WEIGHT_FILE_PATH
 ```
