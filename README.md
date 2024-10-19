@@ -1,4 +1,4 @@
-## CWNet: Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation
+## Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation
 
 by Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun
 
@@ -22,7 +22,7 @@ and enhance the decoder’s feature expression ability.
 ## Citation
 ```
 @article{li2024can,
-  title={CWNet: Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation},
+  title={Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation},
   author={Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun},
   journal={},
   pages={},
