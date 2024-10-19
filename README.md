@@ -21,7 +21,7 @@ and enhance the decoder’s feature expression ability.
 
 ## Citation
 ```
-@article{li2024can,
+@article{li2024MCNet,
   title={Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation},
   author={Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun},
   journal={},
