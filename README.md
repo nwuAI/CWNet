@@ -7,12 +7,12 @@ by Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qin
 
 ## Introduction
 Our paper propose a Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation (MCNet) by integrating multi-direction convolution and transformer together. The
-MCNet employs a dual-branch encoder ,and a Transformer as the bottleneck, to capture the
+MCNet employs a dual-branch encoder, and a Transformer as the bottleneck, to capture the
 multi-directional features and the global features, respectively.
 In addition, we design two modules, the Convolution and
 Wavelet Fusion module (CWF) and the Feature Enhancement
-module (FE), to better fuse the features of the two encoders
-and enhance the decoder’s feature expression ability.
+module (FE), to better integrate the features of the two branches of the encoder and the features of the encoder and
+decoder, and enhance the decoder’s feature expression ability.
 
 <div align="center">
   <img src="figures/framework.png" width="1000" />
