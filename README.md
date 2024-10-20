@@ -3,7 +3,7 @@
 by Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun
 
 
-* We provide related codes and configuration files to reproduce the "CWNet: Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation"
+* We provide related codes and configuration files to reproduce the "Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation"
 
 ## Introduction
 Our paper propose a Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation (MCNet) by integrating convolution, wavelet and transformer together. The
