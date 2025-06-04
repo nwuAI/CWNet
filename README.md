@@ -1,13 +1,13 @@
-## Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation
+## Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation
 
 by Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun
 
 
-* We provide related codes and configuration files to reproduce the "Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation"
+* We provide related codes and configuration files to reproduce the "Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation"
 
 ## Introduction
-Our paper propose a Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation (MCNet) by integrating multi-direction convolution and transformer together. The
-MCNet employs a dual-branch encoder, and a Transformer as the bottleneck, to capture the
+Our paper propose a Multi-Direction Convolution and Transformer Cooperated Network for Retinal Vessel Segmentation (CWNet) by integrating multi-direction convolution and transformer together. The
+CWNet employs a dual-branch encoder, and a Transformer as the bottleneck, to capture the
 multi-directional features and the global features, respectively.
 In addition, we design two modules, the Convolution and
 Wavelet Fusion module (CWF) and the Feature Enhancement
@@ -21,8 +21,8 @@ decoder, and enhance the decoder’s feature expression ability.
 
 ## Citation
 ```
-@article{li2024MCNet,
-  title={Multi-Direction Convolution and Transformer Network for Retinal Vessel Segmentation},
+@article{li2024CWNet,
+  title={Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation},
   author={Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun},
   journal={},
   pages={},
