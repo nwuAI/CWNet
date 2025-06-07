@@ -1,6 +1,6 @@
 ## Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation
 
-by Zhan Li, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun
+by Zhan Li, Yaokai Lei, Jianjun Zeng, Yuning Wang, Yisong Han, Chengpeng Nie, Songdi Wu, Qinru Sun
 
 
 * We provide related codes and configuration files to reproduce the "Convolution and Wavelet Cooperated CNN-Transformer architecture for Retinal Vessel Segmentation"
